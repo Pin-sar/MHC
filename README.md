@@ -1,2 +1,2 @@
-<img width="427" alt="Screenshot 2025-03-06 at 3 58 05 PM" src="https://github.com/user-attachments/assets/f6975df1-da6a-48cb-9e55-1560f5dfdb04" />
+<img width="447" alt="Screenshot 2025-03-06 at 3 59 26 PM" src="https://github.com/user-attachments/assets/e4234b58-444e-44c6-896e-b2ef80e48017" />
 This is what you will get, just try it out.
