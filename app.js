@@ -151,7 +151,7 @@ function MentalHealthChatbot() {
           <div className="assistant-info">
             <div className="assistant-avatar">👩‍⚕️</div>
             <div className="assistant-details">
-              <h1>Aria</h1>
+              <h1>PINGU</h1>
               <p>{assistantStatus}</p>
             </div>
           </div>
@@ -179,7 +179,7 @@ function MentalHealthChatbot() {
               value={inputMessage}
               onChange={(e) => setInputMessage(e.target.value)}
               onKeyPress={(e) => e.key === 'Enter' && sendMessage()}
-              placeholder="Talk to Aria..."
+              placeholder="Talk to PINGU..."
             />
             <div className="input-actions">
               <button 
